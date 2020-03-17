@@ -1,3 +1,7 @@
 # Telegram bot to report COVID-19 status 
 
-# COVID19InformationBot
+https://t.me/COVID19InformationBot
+
+@COVID19InformationBot 
+
+/status country to return all cases for today at 00:00 
